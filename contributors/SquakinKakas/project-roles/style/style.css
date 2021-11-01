@@ -33,3 +33,7 @@ body{
   text-decoration:none;
   color:#222222;
 }
+.center{
+  text-align:center;
+  content-align:center;
+}
