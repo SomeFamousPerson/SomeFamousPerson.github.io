@@ -37,3 +37,7 @@ body{
   color:#ff0000;
   text-decoration:underline;
 }
+table, tr, td, th{
+  border:1px solid #000000;
+  border-collapse: collapse;
+}
