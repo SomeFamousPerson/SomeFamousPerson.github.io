@@ -1,0 +1,36 @@
+.homebutton{
+  text-align:center;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+.homebutton:hover{
+  color:#ff0000;
+  text-decoration:none;
+}
+.homebutton:visited{
+  color:#000000;
+}
+.title{
+  text-align:center;
+  font-size:28px;
+  color:#220000;
+  text-decoration:none;
+}
+.maintext{
+  font-size:16px;
+  color:#444444;
+  text-decoration:none;
+}
+.heading{
+  font-size:22px;
+  color:#333333;
+  text-decoration:underline;
+  text-align:center;
+}
+.heading:hover{
+  color:#0000ff;
+}
+.heading:visited{
+  color:#333333;
+}
