@@ -1,0 +1,17 @@
+body{
+  background-color:#98ff78;
+  color:#000000;
+  font-size:25px;
+}
+.home{
+  color:#000000;
+  text-decoration:none;
+}
+.home:hover{
+  color:#0000ff;
+  text-deocration:underline;
+}
+.home:visited{
+  color:#000000;
+  text-decoration:none;
+}
