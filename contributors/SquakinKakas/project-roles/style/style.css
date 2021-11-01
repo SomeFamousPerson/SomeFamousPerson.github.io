@@ -20,13 +20,11 @@ body{
   text-decoration:none;
   color:#555555;
   font-size:40px;
-  transition-duration:0.5s;
-  transition:all;
+  transition:all 0.5s;
 }
 .title:hover{
   font-size:80px;
-  transition-duration:0.5s;
-  transition:all;
+  transition:all 0.5s;
 }
 .text{
   font-size:24px;
