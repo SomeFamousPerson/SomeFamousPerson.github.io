@@ -10,6 +10,7 @@ body{
 .home:hover{
   color:#ff0000;
   text-decoration:underline;
+  text-align:center;
 }
 .home:visited{
   color:#000000;
