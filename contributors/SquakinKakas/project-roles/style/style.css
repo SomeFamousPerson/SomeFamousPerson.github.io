@@ -1,0 +1,35 @@
+body{
+  background-color:#98ff78;
+}
+.navigationupper{
+  color:#000000;
+  text-decoration:none;
+  font-size:14px;
+  text-align:center;
+}
+.navigationupper:hover{
+  color:#ff0000;
+  text-decoration:underline;
+}
+.navigationupper:visited{
+  color:#000000;
+  text-decoration:none;
+}
+.title{
+  text-align:center;
+  text-decoration:none;
+  color:#555555;
+  font-size:40px;
+  transition-duration:0.5s;
+  transition:all;
+}
+.title:hover{
+  font-size:80px;
+  transition-duration:0.5s;
+  transition:all;
+}
+.text{
+  font-size:24px;
+  text-decoration:none;
+  color:#222222;
+}
