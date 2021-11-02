@@ -9,9 +9,9 @@ body{
   border:solid #000000 4px;
   height:auto;
   width:auto;
-  padding:10px;
   border-radius:10px;
   content-align:center;
+  background-color:#98ff78;
 }
 .home:hover{
   color:#ff0000;
