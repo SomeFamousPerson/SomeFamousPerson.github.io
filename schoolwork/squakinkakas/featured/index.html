@@ -27,11 +27,11 @@
     <p>
       This is a small, simple list of some of my featured homework. This is a simple list of my work, with drop-down lists that will reveal some of my schoolwork. Simply click on one of the buttons for more information on a piece of work.
     </p>
-    <a class="togglebutton" onclick="javascript:document.getElementById('CloudMultiplayerProject').className = 'elementVisible'">
+    <a class="togglebutton" onclick="javascript: if(document.getElementById('CloudMultiplayerProject') == 'elementHidden dropdown'){document.getElementById('CloudMultiplayerProject').className = 'elementVisible dropdown'}else{document.getElementById('CloudMultiplayerProject').className = 'elementHidden dropdown'}">
       A cloud-based online multiplayer game on Scratch for tech (click for more info)
     </a>
     <br>
-    <div id="CloudMultiplayerProject" class="elementHidden">
+    <div id="CloudMultiplayerProject" class="elementHidden dropdown">
       <p>
         So first some background to the project: For one of my technology assignments, we had to create a game on Scratch, based on some saying / lesson. I had chosen to make my game teach people to work together, and made it an online multiplayer game in which it would be impossible to win without working together.
       </p>
