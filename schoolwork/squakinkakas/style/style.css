@@ -1,0 +1,77 @@
+.upperbuttons{
+  color:#555555;
+  font-size:18px;
+  text-align:center;
+  text-decoration:none;
+}
+.upperbuttons:hover{
+  color:#00ff00;
+  text-decoration:underline;
+}
+.upperbuttons:visited{
+  color:#555555;
+  text-decoration:none;
+}
+.title{
+  color:#000000;
+  font-size:30px;
+  text-align:center;
+  text-decoration:none;
+  transition: all 0.5s;
+}
+.title:hover{
+  color:#ff0000;
+  text-decoration:underline;
+  font-size:50px;
+  transition: all 0.5s;
+}
+p{
+  color:#000000;
+  text-decoration:none;
+  font-size:21px;
+  transition: all 1s;
+}
+p:hover{
+  color:#000055;
+  transition: all 1s;
+}
+.link{
+  color:#000000;
+  font-size:21px;
+  text-decoration:none;
+  transition: all 0.25s;
+}
+.link:hover{
+  color:#ff0000;
+  text-decoration:underline;
+  transition: all 0.25s;
+}
+.togglebutton{
+  color:#00ff00;
+  font-size:25px;
+  text-decoration:none;
+  transition: all 0.25s;
+}
+.togglebutton:hover{
+  color:#ff0000;
+  text-decoration:underline;
+  transition: all 0.25s;
+}
+.dropdown:{
+  padding-left:1em;
+  padding-right:1em;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  transition: all 1s ease-in-out;
+}
+.dropdown:hover{
+  filter: blur(0px);
+  -webkit-fliter: blur(0px);
+  transition: all 1s ease-in-out;
+}
+.elementHidden{
+  visibility: hidden;
+}
+.elementVisible{
+  visibility: visible;
+}
