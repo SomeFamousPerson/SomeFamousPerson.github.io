@@ -1,11 +1,4 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	Luke V <lukeviggers2007@gmail.com>
-Comment: Created:	9/11/2021 4:23 p.m.
-Comment: Expires:	9/11/2023 12:00 p.m.
-Comment: Type:	3,072-bit RSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User-IDs
-Comment: Fingerprint:	06BF0AA2E259131E4E2E282A5E205C49D3A54D55
-
 
 mQGNBGGJ6coBDADTt275WP3FmWOv9OAc634HVQEFu0DOvY4IRzOd3gny5JPQgLvl
 jEXlc1qIyR/G8pl+SGN/7Q0rZhn5Ua8ny3z/qEcB4r4NPZPySoAz0drahHNkx8YA
