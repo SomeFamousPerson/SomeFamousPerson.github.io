@@ -9,4 +9,5 @@ Have a good day!
 
 # Contributors
 Creator: SomeFamousPerson/Luke
+
 Contributor / bug maker: SquakinKakas
