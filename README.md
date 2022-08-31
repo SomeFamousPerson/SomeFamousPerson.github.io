@@ -11,3 +11,9 @@ Have a good day!
 Creator: SomeFamousPerson/Luke
 
 Contributor / bug maker: SquakinKakas
+
+# Contact Us
+## The contact webpage
+You can visit our contact webpage for emails that you can contact here: https://thisisluke.me/contact/
+## Report bugs or make feature requests via github
+You can check the "issues page" on the github repository for this website here: https://github.com/SomeFamousPerson/SomeFamousPerson.github.io/issues
